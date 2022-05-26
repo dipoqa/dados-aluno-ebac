@@ -1,11 +1,13 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
+-Primeiro Nome: Diego Portella
+-Profissão:Tester QA
+-Cidade:São Paulo
+-O que faz nas horas vaga: Atividade física
 -Feedback sobre o curso Qualidade de Software:
+Excelente !!!
 -Feedback sobre a plataforma de estudo da EBAC:
+Excelente de fácil entendimento e navegação.
 
 Obrigado!!!
 
